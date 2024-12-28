@@ -5,5 +5,5 @@ publish = "docs/.vuepress/dist"
 command = "npm run docs:build"
 
 [build.environment]
-NODE_VERSION = "22"
+NODE_VERSION = "20"
 NPM_FLAGS = "--version"
